@@ -1,0 +1,130 @@
+{
+  "main": {
+    "id": "0a96b636d9785533",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd6e0461d33d24e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c35698900638f95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Földrajz és politika/Tol'Quara/Tol'Quara.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b1a5da7409106160",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb6e7fce799eea65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69c8b958283ce8ae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0815d379d7fc3773",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "db0e474b33c7f71e",
+    "type": "split",
+    "children": [
+      {
+        "id": "971646c4fbc78fbd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77cee7a38d6fe968",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Földrajz és politika/Tol'Quara/Tol'Quara.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c9a240b674b31213",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "7c35698900638f95",
+  "lastOpenFiles": [
+    "Fontos Személyek/Tol'Quarai Nagytanács.md",
+    "Földrajz és politika/Tol'Quara/Tol'Quara.md",
+    "Földrajz és politika/Caldior/Elf Kettős Királyság/Ave'leyn.md",
+    "Földrajz és politika/Caldior/Elf Kettős Királyság/Az Elf Kettős Királyság.md",
+    "Fontos Személyek/A Négyek.md",
+    "Események/Az Acél és Parázs Háborúja.md",
+    "Események/Vörös-Kék Háború.md",
+    "Földrajz és politika/Rubint - szigetek/Rubint Szigetek.md",
+    "Földrajz és politika/Tol'vaar/Tol'Vaar.md",
+    "Földrajz és politika/Caldior/Emberi Uradalmak/Nordánia/Nordánia.md"
+  ]
+}

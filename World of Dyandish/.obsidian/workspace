@@ -1,0 +1,107 @@
+{
+  "main": {
+    "id": "0a96b636d9785533",
+    "type": "split",
+    "children": [
+      {
+        "id": "65492b30655e8e42",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b1a5da7409106160",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb6e7fce799eea65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69c8b958283ce8ae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0815d379d7fc3773",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "db0e474b33c7f71e",
+    "type": "split",
+    "children": [
+      {
+        "id": "971646c4fbc78fbd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77cee7a38d6fe968",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c9a240b674b31213",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "65492b30655e8e42",
+  "lastOpenFiles": [
+    "Földrajz és politika/Caldior/Elf Kettős Királyság/Vael'hann-erdők.md",
+    "Földrajz és politika/Caldior/Emberi Uradalmak/Nordánia.md",
+    "Földrajz és politika/Caldior/Emberi Uradalmak/Khaelosi Fejedelemség.md",
+    "Földrajz és politika/Caldior/Emberi Uradalmak/Kármin Birodalom.md",
+    "Földrajz és politika/Caldior/Emberi Uradalmak/Északi Köztársaság.md",
+    "Földrajz és politika/Caldior/Emberi Uradalmak/Egyesült Mirantis.md",
+    "Földrajz és politika/Caldior/Emberi Uradalmak/Az Emberi Uradalmak.md",
+    "Földrajz és politika/Caldior/Emberi Uradalmak/Nyugatvég.md",
+    "Földrajz és politika/Caldior/Caldior.md",
+    "Események/Vörös-Kék Háború.md"
+  ]
+}

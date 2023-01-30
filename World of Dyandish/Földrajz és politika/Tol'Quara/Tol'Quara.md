@@ -7,6 +7,8 @@ Tol'Quara [[Cynur]] legnagyobb városa, a [[Szabad Városok Ligája]]nak de fact
 
 ![[Tol'Quara.jpg]]
 
+![[d2f37c9beb1c127c57526e043219c1a0.jpg]]
+
 # Történelme
 A város pontos eredete nem ismert, már a legrégebbi ismert feljegyzések, amikor az emberi nép még csak pár szétszórt törzsből állt, is már említést tesz egy nagy városról a két kontinens találkozásánál. Nem meglepő tehát, hogy sokan természetfeletti jellemvonásokat tulajdonítanak a városnak. A város az évszázadok alatt többször átalakult, kibővült, és fejlődött, körülbelül [[Idővonal | 150 éve]] épült meg a Caldiori part felől a Külső Fal, amely összességében több, mint megyötszörözte a város alapterületét.
 
@@ -27,12 +29,15 @@ Továbbá a Nagytanács nem hivatalos tagjai egy-egy képviselő az [[Arkán Aka
 Tol'Quara tagja, és egyben de facto vezetője a [[Szabad Városok Ligája|Szabad Városok Ligájának]].
 
 # Földrajza
+
 A város a két kontinens találkozásánál a szorosra épülve helyezkedik el. Három fő része a Külső Város, a Belső Város, és a Citadella. Bár hivatalosan a város falain kívül nincs semmi hatalma a Nagytanácsnak, gyakorlatilag mivel keletről pár kilométer lakható föld után azonnal kietlen, sziklás heységekbe torkollik a táj az Ősök Öklén haladva, és nyugatra a nagyrészt üres, csak Ork törzsek által lakott [[Or'rhok Pusztaság]] van, így számtalan kissebb-nagyobb birtok alakult erre ki Tol'Quara égisze alatt. Általában a város őrsége igyekszik megvédeni ezen településeket, ám nem titkolják, hogy a város falain kívül élni kevésbé sem a legbiztonságosabb: Ha egy jelentősebb Ork fosztogató csapat közeledne, vagy diplomáciai incidenst kockáztatnának a haderejük kivezénylésével, a Nagytanács gondolkodás nélkül hagyni fogja őket égni.
 
 ## Külső Város
+
 A Külső Város Tol'Quara legújabb, és egyben legfejletlenebb része. A nyugati oldalon, a kb. 150 évvel ezelőtt épült Külső Fal által elkerített rész ez, ebből kifolyólag még közel sem annyira sűrűn beépített, mint a Belső Város, még felfedezhetőek helyenként kertes, vagy egyetlen emeletes házak. Általánosságban szegényes városrész, ám rendkívül sokszínű, szervezetlen és kaotikus felépítése, valamint változatos hátterű és gazdagságú lakosainak hála szinte bármit meg lehet itt találni, ám sokszor hosszas keresés árán. A Külső Város legszegényebb része a Kosz-negyed, itt él Tol'Quara lakosságának közel egyharmada.
 
 ## Belső Város
+
 A város belső falai már az ismert történelem kezdetén is álltak, ám az évszázadok során számtalan alkalommal megújultak, átalakultak, vagy befoltozódtak. A Belső Városban találhatóak Tol'Quara legjellegzetesebb épületei. A városrész két fő részre oszlik, a Caldior-i és Tol'Vaar-i oldalra, melyeket két masszív, mágiával átitatott híd, Shaelon (elf, jel.: kezek érintkezése) és Elenward (elf, jel.: Másik, egyéb) kötnek össze. A Belső Falat a Tol'Vaar-i oldalon egy mesterséges vizesárok veszi körbe, melyet a Külső Fal építésével párhuzamosan alakítottak ki, hogy ezzel is megerősítsék a város védelmét kelet felől.
 
 ##### Kikötő
@@ -63,24 +68,26 @@ Egyéb nevezetességek a városban többek között:
 - A Ficcio Bank, melyet Perzival Schuttenbach működted helyettese, Alois LaCroix segítségével.
 
 ## Citadella
+
 A Citadella Tol'Quara legbelső városrésze, a Caldiori oldalon egy szirten helyezkedik el. A falain belül a város legelitebbje lakik, köztük a Nagytanács tagjai, és háztartásuk. Ezen felül itt található az Arany Palota, a Nagytanács székhelyéül szolgáló épületkomplexum.
 
 # Demográfia
-Tol'Quara összesített lakossága kb. 1 millió fő, ennek kb. 14.32%-a a falakon kívül, 65.67%-a a Külső Városban, 19.98%-a a Belső Városban, és 0.02%-a a Citadellában él.
+
+Tol'Quara összesített lakossága kb. 2 millió fő, ennek kb. 14.32%-a a falakon kívül, 65.67%-a a Külső Városban, 19.98%-a a Belső Városban, és 0.02%-a a Citadellában él.
 A faji eloszlások a városban:
 
-| Faj        | %   | Szám    |
-| ---------- | --- | ------- |
-| Ember      | 52% | 427 549 |
-| Elf        | 11% | 113 871 |
-| Fél-elf    | 15% | 148 942 |
-| Törp       | 8%  | 86 542  |
-| Gnóm       | 4%  | 43 256  |
-| Félszerzet | 4%  | 39 996  |
-| Fél-ork    | 2%  | 24 474  |
-| Tiefling   | 1%  | 13 861  |
-| Ork        | 1%  | 11 042  |
-| Egyéb      | 2%  | 27 012  |
+| Faj        | %   |
+| ---------- | --- |
+| Ember      | 35% |
+| Fél-elf    | 30% |
+| Elf        | 10% |
+| Törp       | 10% |
+| Gnóm       | 5%  |
+| Félszerzet | 5%  |
+| Fél-ork    | 2%  |
+| Tiefling   | 1%  |
+| Ork        | 1%  |
+| Egyéb      | 2%  |
 
 
 

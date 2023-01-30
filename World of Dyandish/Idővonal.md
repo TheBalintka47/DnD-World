@@ -14,6 +14,8 @@ K. h. e. 22: A valóság anyaga meghasad, amint Káosz, a Démonok Ura (Alkotói
 K. h. e. 0: Egy sorsdöntő csatában az ismert világ népeinek egyesített erői sikeresen legyőzik, és végleg elzárják Káoszt. A hagyomány szerint a győzelemhez az Istenek segítették hozzá a halandókat, mikor feltárták előttük az arkán mély rejtelmeit, ezzel megalkotva az első mágusokat. A háború után az ismert világ nagyját sikeresen megtisztítják a hátramaradt megszállóktól, azonban a valóságok összemosódása még a legerősebb mágusoknak is túl soknak bizonyul Tol'Vaar déli részein. Válaszul a törpök megépítik a Tharim-vonalat, egy kontinensen átívelő erődítményrendszert, hogy megóvják a világ maradékát egy esetleges támadástól a hátramaradott lények által.
 Az újonnan felkent mágusok megalapítják az Arkán Akadémiát [[Tol'Quara]]ban.
 
+K.h.u. 251: A [[Elf Polgárháborúk#Második Elf Polgárháború|Második Elf Polgárháború]] kirobbanása.
+
 K. h. u. 339: [[Acélkezű Logan]] a Nordann-klánból sikeresen egyesíti a Mirantistól északra élő klánokat, ezel megalkotva a Nordániai Királyságot, magát pedig az Acélkoronával megkoronázza. Logan tisztelte Erős Thaleron módszereit, ám tudta, hogy a büszke északi Klánokra lehetetlen lenne ráerőltetni a szigorú feudalizmust, így kialakította a mai napig élő hibrid megoldást, ahol a klánvezetők megtarthatták a földjeiket és hagyományaikat.
 
 K. h. u. 389 : [[Az Acél és Parázs Háborúja]].  Nordánia a Mirantisi Egyesült Királyság protektorátusává válik az ifjú, de ambiciózus III. Aeron uralkodása alatt.

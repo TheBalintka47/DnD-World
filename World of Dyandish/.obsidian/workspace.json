@@ -8,24 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "33cf68fb78117427",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Földrajz és politika/Caldior/Emberi Uradalmak/Nordánia/Városok, falvak, egyebek/Cragallis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c39716bb99082e7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Földrajz és politika/Caldior/Emberi Uradalmak/Nordánia/Városok, falvak, egyebek/Beornfort.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "67796ec39e536881",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Földrajz és politika/Caldior/Elf Kettős Királyság/Ave'leyn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad7d8c7834e8a877",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Földrajz és politika/Caldior/Elf Kettős Királyság/Ave'leyn.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Földrajz és politika/Caldior/Emberi Uradalmak/Nordánia/Városok, falvak, egyebek/Vonyítóvár.md",
+                "file": "Földrajz és politika/Tol'Quara/Tol'Quara.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Földrajz és politika/Caldior/Emberi Uradalmak/Nordánia/Városok, falvak, egyebek/Vonyítóvár.md",
+                "file": "Földrajz és politika/Caldior/Elf Kettős Királyság/Ave'leyn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,13 +145,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,17 +161,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "0b874114a8e90506",
+  "active": "ad7d8c7834e8a877",
   "lastOpenFiles": [
-    "Földrajz és politika/Caldior/Emberi Uradalmak/Nordánia/Városok, falvak, egyebek/Pusztaszíve.md",
-    "Földrajz és politika/Caldior/Emberi Uradalmak/Nordánia/Városok, falvak, egyebek/Vonyítóvár.md",
+    "World Map.jpg",
+    "Földrajz és politika/Caldior/Elf Kettős Királyság/Ave'leyn.md",
+    "Idővonal.md",
+    "Események/Elf Polgárháborúk.md",
+    "Földrajz és politika/Caldior/Emberi Uradalmak/Az Emberi Uradalmak.md",
+    "Földrajz és politika/Caldior/Emberi Uradalmak/Északi Köztársaság/Északi Köztársaság.md",
+    "Fontos Személyek/A Négyek.md",
     "Földrajz és politika/Caldior/Emberi Uradalmak/Nordánia/Városok, falvak, egyebek/Cragallis.md",
     "Földrajz és politika/Caldior/Emberi Uradalmak/Nordánia/Városok, falvak, egyebek/Beornfort.md",
-    "Idővonal.md",
-    "Másodlagos NPC-k.md",
-    "!macMargyl.png.md",
-    "Földrajz és politika/Caldior/Elf Kettős Királyság/Ave'leyn.md",
-    "Földrajz és politika/Rubint - szigetek/Rubint Szigetek.md",
-    "Földrajz és politika/Caldior/Emberi Uradalmak/Nordánia/Városok, falvak, egyebek/Szarvashegy.md"
+    "zzzzzzz_misc/Malthasar's Curse - Beornfort.jpg"
   ]
 }

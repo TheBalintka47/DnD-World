@@ -18,11 +18,16 @@ Ez a hír hamarosan eljutott a Két Koronához is, akik keményen kívántak fel
 - 10 arany minden házért, és épületért,
 ami a városban fellelhető volt. (Bár a pontos számok vitatottak, a fent említettek az elterjedt legendából származnak, alighanem túlzók).
 A királyok rövid tanakodás után elfogadták az ajándékot, egy feltétellel - ki kívántak dolgozni egy keretrendszert Ave'leyn számára, hogy a koronáknak végső beleszólása lehessen minden eladásba, hogy mit szabad, és mit nem. Ez meg is történt, ezt ismerik a Szabad Paktumként.
-Azóta a város zavartalanul folytatja kereskedését. Érdekessége, hogy mivel a folyó két partja a királyságok része, így a város csak a deltán tudott terjeszkedni, előbb szerte, aztán fel. Mára a több tucatnyi szigetből számoson tornyok állnak, komplex liftrendszerekkel és hidakkal egymás között, hogy biztosan minél több minden férhessen el a limitált helyen. Állítólag távolról a sok magasodó torony egy sündisznó hatását kelti, innen a város ragadványneve, *Quil Thaer* (elf, "Tüske-város")
+Azóta a város zavartalanul folytatja kereskedését. Érdekessége, hogy mivel a folyó két partja a királyságok része, így a város csak a deltán tudott terjeszkedni, előbb szerte, aztán fel. Mára a több tucatnyi szigetből számoson tornyok állnak, komplex liftrendszerekkel és hidakkal egymás között, hogy biztosan minél több minden férhessen el a limitált helyen. Állítólag távolról a sok magasodó torony egy sündisznó hatását kelti, innen a város ragadványneve, *Quil Thaer* (elf, "Tüske-város"). A hely szűkössége miatt Ave'leynben csak a gazdagok leggazdagabbjai engedhetik meg maguknak, hogy kertjük legyen.
 
 ## Politika
 
 Ave'leyn egyfajta jogi limbóban létezik, egyik királyságnak sem része, de azok nem is kívánnak ezen változtatni - cserébe egyiküknek sem tartozik adóval, mégis rendszeresen küld mindkét udvar számára jelentős "ajándékokat".
+Ave'leyn tagja a [[Szabad Városok Ligája|Szabad Városok Ligájának]], rendszeresen és óvatosan egyensúlyozva a Liga és a Királyságok kegyeit.
+A város polgármesterét gyakran illetik a "Kalmárkirály" címmel.
 
+## Demográfia
+
+Ave'leyn körülbelül 27 000 léleknek ad otthont. Az itt élők túlnyomó része elf, de minden faj reprezentálva van valamilyen mértékben.
 
 #geography #places #politics #cities 

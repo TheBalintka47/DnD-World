@@ -1,0 +1,1 @@
+Dal'Shara (elf, *Hold mezei*), "A Hold Királysága" egyike az [[Az Elf Kettős Királyság|Két Elf Királyság]] egyike.

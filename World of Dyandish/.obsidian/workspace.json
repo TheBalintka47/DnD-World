@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Földrajz és politika/Caldior/Emberi Uradalmak/Nordánia/Városok, falvak, egyebek/Beornfort.md",
+                "file": "Cynur/Caldior/Emberi Uradalmak/Nordánia/Városok, falvak, egyebek/Beornfort.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Földrajz és politika/Caldior/Elf Kettős Királyság/Ave'leyn.md",
+                "file": "Cynur/Caldior/Elf Kettős Királyság/Ave'leyn/Ave'leyn.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Földrajz és politika/Caldior/Elf Kettős Királyság/Ave'leyn.md",
+                "file": "Cynur/Caldior/Elf Kettős Királyság/Az Elf Kettős Királyság.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,19 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Földrajz és politika/Caldior/Emberi Uradalmak/Nordánia/Városok, falvak, egyebek/Norssex.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b874114a8e90506",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Földrajz és politika/Tol'Quara/Tol'Quara.md",
+                "file": "Cynur/Caldior/Emberi Uradalmak/Nordánia/Városok, falvak, egyebek/Norssex.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Földrajz és politika/Caldior/Elf Kettős Királyság/Ave'leyn.md",
+                "file": "Cynur/Caldior/Elf Kettős Királyság/Az Elf Kettős Királyság.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,11 +133,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,15 +153,15 @@
   },
   "active": "ad7d8c7834e8a877",
   "lastOpenFiles": [
-    "World Map.jpg",
-    "Földrajz és politika/Caldior/Elf Kettős Királyság/Ave'leyn.md",
-    "Idővonal.md",
-    "Események/Elf Polgárháborúk.md",
-    "Földrajz és politika/Caldior/Emberi Uradalmak/Az Emberi Uradalmak.md",
-    "Földrajz és politika/Caldior/Emberi Uradalmak/Északi Köztársaság/Északi Köztársaság.md",
-    "Fontos Személyek/A Négyek.md",
-    "Földrajz és politika/Caldior/Emberi Uradalmak/Nordánia/Városok, falvak, egyebek/Cragallis.md",
-    "Földrajz és politika/Caldior/Emberi Uradalmak/Nordánia/Városok, falvak, egyebek/Beornfort.md",
-    "zzzzzzz_misc/Malthasar's Curse - Beornfort.jpg"
+    "Cynur/Caldior/Elf Kettős Királyság/Dal'Shara/Dal'Shara.md",
+    "Cynur/Caldior/Elf Kettős Királyság/Ave'leyn/Ave'leyn.md",
+    "Cynur/Caldior/Elf Kettős Királyság/Az Elf Kettős Királyság.md",
+    "Cynur/Caldior/Emberi Uradalmak/Nordánia/Városok, falvak, egyebek/Vonyítóvár.md",
+    "Cynur/Caldior/Emberi Uradalmak/Nordánia/Városok, falvak, egyebek/Szarvashegy.md",
+    "Cynur/Caldior/Emberi Uradalmak/Nordánia/Városok, falvak, egyebek/Pusztaszíve.md",
+    "Cynur/Caldior/Emberi Uradalmak/Nordánia/Városok, falvak, egyebek/Norssex.md",
+    "Cynur/Caldior/Emberi Uradalmak/Nordánia/Városok, falvak, egyebek/Eldwith.md",
+    "Cynur/Caldior/Emberi Uradalmak/Nordánia/Városok, falvak, egyebek/Cragallis.md",
+    "Cynur/Caldior/Emberi Uradalmak/Nordánia/Városok, falvak, egyebek/Beornfort.md"
   ]
 }

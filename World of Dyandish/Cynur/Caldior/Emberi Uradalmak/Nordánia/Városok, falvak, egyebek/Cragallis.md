@@ -11,7 +11,7 @@ Cragallist a legendák szerint a legelső Caldiorra érkező emberek alapított�
 
 ## Politika
 
-Cragallis a Cragel-ház uralma alatt áll, jelenlegi klánfeje Cedric Cragel. Bár gyakorta kerülnek kereskedelmi összetűzésbe, Cragallis összesítve jó kapcsolatot ápol a Szabad Városok Ligájával, gyakran annak tiszteletbeli tagjaként is emlegetik. A városban és környékén állomásozik a Cragel-ház, és rajtuk keresztül Nordánia teljes flottája - 25 galleon, és több, mint 50 kisebb-nagyobb kereskedőbárka.
+Cragallis a [[Nordánia#Legjelentősebb klánok:|Cragel-klán]] uralma alatt áll, jelenlegi klánfeje Cedric Cragel. Bár gyakorta kerülnek kereskedelmi összetűzésbe, Cragallis összesítve jó kapcsolatot ápol a Szabad Városok Ligájával, gyakran annak tiszteletbeli tagjaként is emlegetik. A városban és környékén állomásozik a Cragel-ház, és rajtuk keresztül Nordánia teljes flottája - 25 galleon, és több, mint 50 kisebb-nagyobb kereskedőbárka.
 A flotta érdekessége a legnagyobb zászlóshajója, a Tengerkirályné, mely immár 40 éve nem hagyta el a város kikötőjét. Állítólag a Londe Köztársaság összeomlása után, amint a kalózok ismét ellepték a vizeket, az akkori klánvezér Caen Cragel megesküdött, hogy a Tengerúrnő addig nem hajózik ki, amíg meg nem tisztították az Ilreni tengert a fosztogatóktól. Az eskü oka nem ismert pontosan - egyesek szerint méltatlannak vélt egy "fertőzött" tengeren hajózni a zászlóshajóval, míg mások szerint önostorozó döntés volt, mivel saját hibájának is tartotta a kalózok megsokasodását.
 
 ## Gazdaság

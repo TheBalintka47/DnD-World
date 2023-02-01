@@ -37,7 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cynur/Caldior/Elf Kettős Királyság/Az Elf Kettős Királyság.md",
+                "file": "Cynur/Tol'Quara/Tol'Quarai Nagytanács.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e4a828d8f0342835",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cynur/Tol'vaar/Durvegar/Durvegar.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -114,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cynur/Caldior/Elf Kettős Királyság/Az Elf Kettős Királyság.md",
+                "file": "Cynur/Tol'vaar/Durvegar/Durvegar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,17 +163,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ad7d8c7834e8a877",
+  "active": "e4a828d8f0342835",
   "lastOpenFiles": [
-    "Cynur/Caldior/Elf Kettős Királyság/Dal'Shara/Dal'Shara.md",
     "Cynur/Caldior/Elf Kettős Királyság/Ave'leyn/Ave'leyn.md",
-    "Cynur/Caldior/Elf Kettős Királyság/Az Elf Kettős Királyság.md",
+    "Cynur/Tol'vaar/Durvegar/Durvegar.md",
+    "Cynur/Tol'vaar/Whar/Whar.md",
+    "Idővonal.md",
+    "Cynur/Tol'vaar/Tizenkét Csúcs/Tizenkét Csúcs.md",
+    "Cynur/Tol'vaar/Untitled.md",
+    "Cynur/Tol'Quara/Tol'Quarai Nagytanács.md",
     "Cynur/Caldior/Emberi Uradalmak/Nordánia/Városok, falvak, egyebek/Vonyítóvár.md",
     "Cynur/Caldior/Emberi Uradalmak/Nordánia/Városok, falvak, egyebek/Szarvashegy.md",
-    "Cynur/Caldior/Emberi Uradalmak/Nordánia/Városok, falvak, egyebek/Pusztaszíve.md",
-    "Cynur/Caldior/Emberi Uradalmak/Nordánia/Városok, falvak, egyebek/Norssex.md",
-    "Cynur/Caldior/Emberi Uradalmak/Nordánia/Városok, falvak, egyebek/Eldwith.md",
-    "Cynur/Caldior/Emberi Uradalmak/Nordánia/Városok, falvak, egyebek/Cragallis.md",
-    "Cynur/Caldior/Emberi Uradalmak/Nordánia/Városok, falvak, egyebek/Beornfort.md"
+    "Cynur/Caldior/Emberi Uradalmak/Nordánia/Városok, falvak, egyebek/Pusztaszíve.md"
   ]
 }

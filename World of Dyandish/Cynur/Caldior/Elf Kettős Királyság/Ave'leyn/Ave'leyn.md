@@ -28,6 +28,6 @@ A város polgármesterét gyakran illetik a "Kalmárkirály" címmel.
 
 ## Demográfia
 
-Ave'leyn körülbelül 27 000 léleknek ad otthont. Az itt élők túlnyomó része elf, de minden faj reprezentálva van valamilyen mértékben.
+Ave'leyn körülbelül 37 000 léleknek ad otthont. Az itt élők túlnyomó része elf, de minden faj reprezentálva van valamilyen mértékben.
 
 #geography #places #politics #cities 

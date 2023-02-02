@@ -25,50 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cynur/Caldior/Elf Kettős Királyság/Ave'leyn/Ave'leyn.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad7d8c7834e8a877",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cynur/Tol'Quara/Tol'Quarai Nagytanács.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e4a828d8f0342835",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cynur/Tol'vaar/Durvegar/Durvegar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d4a1b576564ee102",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cynur/Caldior/Emberi Uradalmak/Nordánia/Városok, falvak, egyebek/Norssex.md",
+                "file": "Szervezetek/Szabad Városok Ligája.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cynur/Tol'vaar/Durvegar/Durvegar.md",
+                "file": "Szervezetek/Szabad Városok Ligája.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,8 +109,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -163,17 +126,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e4a828d8f0342835",
+  "active": "77cee7a38d6fe968",
   "lastOpenFiles": [
-    "Cynur/Caldior/Elf Kettős Királyság/Ave'leyn/Ave'leyn.md",
-    "Cynur/Tol'vaar/Durvegar/Durvegar.md",
-    "Cynur/Tol'vaar/Whar/Whar.md",
+    "Cynur/Tol'Quara/Tol'Quara.md",
+    "Szervezetek/Szabad Városok Ligája.md",
+    "Szervezetek/Történelmi/Acél-szövetség.md",
+    "Események/Vörös-Kék Háború.md",
+    "Cynur/Caldior/Emberi Uradalmak/Nordánia/Nordánia.md",
     "Idővonal.md",
-    "Cynur/Tol'vaar/Tizenkét Csúcs/Tizenkét Csúcs.md",
-    "Cynur/Tol'vaar/Untitled.md",
-    "Cynur/Tol'Quara/Tol'Quarai Nagytanács.md",
-    "Cynur/Caldior/Emberi Uradalmak/Nordánia/Városok, falvak, egyebek/Vonyítóvár.md",
-    "Cynur/Caldior/Emberi Uradalmak/Nordánia/Városok, falvak, egyebek/Szarvashegy.md",
-    "Cynur/Caldior/Emberi Uradalmak/Nordánia/Városok, falvak, egyebek/Pusztaszíve.md"
+    "Események/Az Acél és Parázs Háborúja.md",
+    "Cynur/Tol'vaar/Folyóköz/Folyóköz.md",
+    "Cynur/Caldior/Emberi Uradalmak/Északi Köztársaság/Északi Köztársaság.md",
+    "Pasted image 20230131141852.png"
   ]
 }

@@ -16,7 +16,7 @@ Az újonnan felkent mágusok megalapítják az Arkán Akadémiát [[Tol'Quara]]b
 
 K.h.u. 251: A [[Elf Polgárháborúk#Második Elf Polgárháború|Második Elf Polgárháború]] kirobbanása.
 
-K.h.u. 278: [[Tol'Quara]], [[Durvegar]] és [[Ave'leyn]] szövetségre lépnek, hogy megvédjék saját érdekeiket a Két Tengeren. Később [[Whar]] és [[Hullámmély]] csatlakozásával létrejön a [[Szabad Városok Ligája]].
+K.h.u. 278: [[Tol'Quara]], [[Durvegar]] és [[Ave'leyn]] szövetségre lépnek, hogy megvédjék saját érdekeiket a Két Tengeren, így létrejön a [[Szabad Városok Ligája]].
 
 K. h. u. 332: [[Acélkezű Logan]] a Nordann-klánból sikeresen egyesíti a Mirantistól északra élő klánokat, ezel megalkotva a Nordániai Királyságot, magát pedig az Acélkoronával megkoronázza. Logan tisztelte Erős Thaleron módszereit, ám tudta, hogy a büszke északi Klánokra lehetetlen lenne ráerőltetni a szigorú feudalizmust, így kialakította a mai napig élő hibrid megoldást, ahol a klánvezetők megtarthatták a földjeiket és hagyományaikat.
 

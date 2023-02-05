@@ -1,7 +1,7 @@
 A Szabad Városok Ligája (gyakran csak "Liga") egy politikai szervezet és szövetségi rendszer, mely a Két Tenger (az Arany- és Ilreni Tengerek) kereskedő szabadvárosait foglalja égisze alá.
 A Liga jelenlegi (K.h.u. 457) tagjai:
 - [[Ave'leyn]]
-- [[Whar]]
+- [[Új-Geldron]]
 - [[Tol'Quara]]
 - [[Durvegar]]
 Ezeken felül "nem hivatalos" tagokként gyakran emlegetik még:

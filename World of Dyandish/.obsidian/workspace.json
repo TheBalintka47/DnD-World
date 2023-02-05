@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Szervezetek/Szabad Városok Ligája.md",
+                "file": "Idővonal.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Szervezetek/Szabad Városok Ligája.md",
+                "file": "Idővonal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -126,17 +125,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "77cee7a38d6fe968",
+  "active": "67796ec39e536881",
   "lastOpenFiles": [
-    "Cynur/Tol'Quara/Tol'Quara.md",
+    "Cynur/Tol'vaar/Whar/Új-Geldron.md",
     "Szervezetek/Szabad Városok Ligája.md",
-    "Szervezetek/Történelmi/Acél-szövetség.md",
-    "Események/Vörös-Kék Háború.md",
+    "World Map.jpg",
+    "Cynur/Caldior/Elf Kettős Királyság/Az Elf Kettős Királyság.md",
+    "Cynur/Caldior/Elf Kettős Királyság/Dal'Shara/Dal'Shara.md",
+    "Cynur/Caldior/Elf Kettős Királyság/Ave'leyn/Ave'leyn.md",
+    "Cynur/Caldior/Emberi Uradalmak/Mirantis/Nagy Házak.md",
     "Cynur/Caldior/Emberi Uradalmak/Nordánia/Nordánia.md",
-    "Idővonal.md",
-    "Események/Az Acél és Parázs Háborúja.md",
-    "Cynur/Tol'vaar/Folyóköz/Folyóköz.md",
-    "Cynur/Caldior/Emberi Uradalmak/Északi Köztársaság/Északi Köztársaság.md",
-    "Pasted image 20230131141852.png"
+    "Cynur/Caldior/Emberi Uradalmak/Nordánia/Városok, falvak, egyebek/Cragallis.md",
+    "Cynur/Tol'Quara/Tol'Quara.md"
   ]
 }

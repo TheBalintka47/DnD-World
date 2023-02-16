@@ -2,7 +2,7 @@
 
 Cynur az ismert materiális világ neve. Cynur felszínét nagyrész óceánok borítják, két jelentősebb feltérképezett kontinenssel a világ "ismert" oldalán.
 
-![[World Map.jpg]]
+![[Cynur_LowerRes.png]]
 
 
 ## Kontinensek
